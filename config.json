@@ -1,0 +1,16 @@
+{
+    "tg": [
+        "7383763159:AAGTEiR39p3jZl53I1-CeeHrx_HW14XnDas"
+    ],
+    "prefix": "/",
+    "webhookURL": "your_webhookURL", 
+    "supportGroupText": "Welcome to the bot! Type `help to see all available commands.\nJoin the support box to know how to use or how to create these types of bots: https://t.me/+YNKDd9_jIeYxNDQ1",
+    "prefixText": "🌐 System prefix:",
+    "botName": "[/] Sakura 🌸",
+    "adminUids": [
+     "5516115467"
+    ],
+    "PORT": 3000,
+    "note": "bot name is important but add a single name. add supportGroupText,add the webhookURL for spying : )"
+}
+
